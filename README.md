@@ -20,4 +20,4 @@
   - Basic Neural Network: run Keras1.ipynb
   - Ensemble model: run Ensemble6_Keras1_XGB5_popular.ipynb
 
-Special thanks to anokas (for starter script), breakfastpirate (insight) and other people in the kaggle forum
+Special thanks to anokas (for starter script), breakfastpirate (for contributing important insight to the community) and other people in the kaggle forum!
