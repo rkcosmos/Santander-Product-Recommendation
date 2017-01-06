@@ -6,10 +6,10 @@
 1. Download dataset from https://www.kaggle.com/c/santander-product-recommendation/data, unzip and put them into input folder.
 
 2. Create preprocessed data by running all cells in the following notebooks
+  - MakeJuneExtraData.ipynb 
   - MakeDataMulticlass2.ipynb
-  - MakeJuneExtraData.ipynb
-  - MakeTestDatawithpast3.ipynb
   - MakeTestSet2.ipynb
+  - MakeTestDatawithpast3.ipynb
   
 3. Choose model to create prediction from the following notebooks:
   - Baseline model: run MostProbableProductRecent2.ipynb
