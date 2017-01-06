@@ -1,5 +1,6 @@
 # Santander Product Recommendation
 
+This is my first Kaggle competition. The best model is in the first top 7%. You can read the high-level explanation in Thai here (http://kittinaradorn.com/first_kaggle_competition/).
 
 **Instruction:**
 
