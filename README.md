@@ -7,11 +7,11 @@ This is my first Kaggle competition. The best model is in the first top 7%. You 
 1. Download dataset from https://www.kaggle.com/c/santander-product-recommendation/data, unzip and put them into input folder.
 
 2. Create preprocessed data by running all cells in the following notebooks
-  - MakeJuneExtraData.ipynb 
+  - MakeJuneExtraData.ipynb
   - MakeDataMulticlass2.ipynb
   - MakeTestSet2.ipynb
   - MakeTestDatawithpast3.ipynb
-  
+
 3. Choose model to create prediction from the following notebooks:
   - Baseline model: run MostProbableProductRecent2.ipynb
   - Basic logistic regression: run CollaborativeFiltering.ipynb
@@ -21,4 +21,4 @@ This is my first Kaggle competition. The best model is in the first top 7%. You 
   - Basic Neural Network: run Keras1.ipynb
   - Ensemble model: run Ensemble6_Keras1_XGB5_popular.ipynb
 
-Special thanks to anokas (for starter script), breakfastpirate (for contributing important insight to the community) and other people in the kaggle forum!
+Special thanks to [anokas](https://www.kaggle.com/anokas) (for starter script), [BreakfastPirate](https://www.kaggle.com/breakfastpirate) (for contributing important insight to the community) and other people in the kaggle forum!
