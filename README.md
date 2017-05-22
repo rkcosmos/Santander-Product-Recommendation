@@ -15,7 +15,7 @@ This is my first Kaggle competition. The best model is in the first top 7%. You 
 3. Choose model to create prediction from the following notebooks:
   - Baseline model: run MostProbableProductRecent2.ipynb
   - Basic logistic regression: run CollaborativeFiltering.ipynb
-  - A bit more adavanced logistic regression: run LogisticRegression2.ipynb
+  - A bit more advanced logistic regression: run LogisticRegression2.ipynb
   - Simple XGBoost model: run XGBmulticlass.ipynb
   - XGBoost with feature engineering: run XGBmulticlass_withpast5.ipynb
   - Basic Neural Network: run Keras1.ipynb
