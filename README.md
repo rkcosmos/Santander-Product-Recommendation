@@ -10,7 +10,6 @@ This is my first Kaggle competition. The best model is in the first top 7%. You 
   - MakeJuneExtraData.ipynb
   - MakeJuneExtraDataMulticlass.ipynb
   - MakeDataMulticlass2.ipynb
-  // - MakeTestSet2.ipynb
   - MakeTestDatawithpast3.ipynb
 
 3. Choose model to create prediction from the following notebooks:
